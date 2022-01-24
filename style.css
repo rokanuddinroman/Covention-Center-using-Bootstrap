@@ -6,6 +6,9 @@ body{
 .card-body ul {
     list-style-image: url(icons/check-circle.svg) !important;
   }
+.bg-badge{
+    background-color: #3F87F5;
+}
 .Order-btn{
     color: #3F87F5;
     background: #FEF5FA;

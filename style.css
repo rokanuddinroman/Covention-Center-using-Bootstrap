@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.card-body ul {
+    list-style-image: url(icons/check-circle.svg) !important;
+  }
+.Order-btn{
+    color: #3F87F5;
+    background: #FEF5FA;
+    border: 0px solid;
+    border-radius: 90px;
+    padding: 8px 30px;
+}
+.card-text{
+    font-weight: 300;
+}
+.card-body{
+    padding-top: 35px !important;
+}
+ul{
+    padding-inline-start: 22px;
+    padding-top: ;
+}
+.card{
+    border-radius: 15px !important;
+    background-image: url(icons/watermark.svg);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+}
+.Unfeatured-card li{
+    color: #848199;
+    font-weight: 300 !important;
+}
+.card ul{
+    line-height: 30px;
+}
+.featured-card li{
+    color: white;
+    font-weight: 300 !important;
+    list-style-image: url(icons/check-circle-white.svg);
+}
+
+.bg-featured{
+    background-color: #3F87F5 !important;
+    box-shadow: rgba(0, 81, 255, 0.3) 0px 60px 40px -7px;
+
+}

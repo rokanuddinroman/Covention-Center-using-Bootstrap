@@ -47,7 +47,7 @@ ul{
 
 .bg-featured{
     background-color: #3F87F5 !important;
-    box-shadow: rgba(0, 81, 255, 0.3) 0px 60px 40px -7px;
+    box-shadow: rgba(0, 81, 255, 0.3) 0px 40px 40px -7px;
 
 }
 .bg-footer{
@@ -63,4 +63,16 @@ ul{
     border: 0px solid;
     background-color: rgb(22, 84, 255);
     border-radius: 25px;
+}
+hr {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(icons/menu-2\ 1.svg) !important;
+}
+.navbar-toggler{
+    border: 0px solid !important;
 }

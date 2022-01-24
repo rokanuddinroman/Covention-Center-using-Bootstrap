@@ -47,3 +47,9 @@ ul{
     box-shadow: rgba(0, 81, 255, 0.3) 0px 60px 40px -7px;
 
 }
+.bg-footer{
+    background-color: #0B0D17;
+}
+.start-75{
+    left: 75%!important;
+}
